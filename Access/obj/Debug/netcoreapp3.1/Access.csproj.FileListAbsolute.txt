@@ -1,0 +1,13 @@
+C:\Users\emotion_No.23\source\repos\OOP\Access\bin\Debug\netcoreapp3.1\Access.exe
+C:\Users\emotion_No.23\source\repos\OOP\Access\bin\Debug\netcoreapp3.1\Access.deps.json
+C:\Users\emotion_No.23\source\repos\OOP\Access\bin\Debug\netcoreapp3.1\Access.runtimeconfig.json
+C:\Users\emotion_No.23\source\repos\OOP\Access\bin\Debug\netcoreapp3.1\Access.runtimeconfig.dev.json
+C:\Users\emotion_No.23\source\repos\OOP\Access\bin\Debug\netcoreapp3.1\Access.dll
+C:\Users\emotion_No.23\source\repos\OOP\Access\bin\Debug\netcoreapp3.1\Access.pdb
+C:\Users\emotion_No.23\source\repos\OOP\Access\obj\Debug\netcoreapp3.1\Access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emotion_No.23\source\repos\OOP\Access\obj\Debug\netcoreapp3.1\Access.AssemblyInfoInputs.cache
+C:\Users\emotion_No.23\source\repos\OOP\Access\obj\Debug\netcoreapp3.1\Access.AssemblyInfo.cs
+C:\Users\emotion_No.23\source\repos\OOP\Access\obj\Debug\netcoreapp3.1\Access.csproj.CoreCompileInputs.cache
+C:\Users\emotion_No.23\source\repos\OOP\Access\obj\Debug\netcoreapp3.1\Access.dll
+C:\Users\emotion_No.23\source\repos\OOP\Access\obj\Debug\netcoreapp3.1\Access.pdb
+C:\Users\emotion_No.23\source\repos\OOP\Access\obj\Debug\netcoreapp3.1\Access.genruntimeconfig.cache

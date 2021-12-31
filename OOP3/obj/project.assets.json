@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emotion_No.23\\source\\repos\\OOP\\OOP3\\OOP3.csproj",
-      "projectName": "OOP3",
-      "projectPath": "C:\\Users\\emotion_No.23\\source\\repos\\OOP\\OOP3\\OOP3.csproj",
+      "projectUniqueName": "C:\\Users\\emotion_No.23\\source\\repos\\OOP\\OOP3\\Static.csproj",
+      "projectName": "Static",
+      "projectPath": "C:\\Users\\emotion_No.23\\source\\repos\\OOP\\OOP3\\Static.csproj",
       "packagesPath": "C:\\Users\\emotion_No.23\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\emotion_No.23\\source\\repos\\OOP\\OOP3\\obj\\",
       "projectStyle": "PackageReference",

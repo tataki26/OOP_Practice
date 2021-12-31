@@ -1,0 +1,13 @@
+C:\Users\emotion_No.23\source\repos\OOP\OOP3\bin\Debug\netcoreapp3.1\Static.exe
+C:\Users\emotion_No.23\source\repos\OOP\OOP3\bin\Debug\netcoreapp3.1\Static.deps.json
+C:\Users\emotion_No.23\source\repos\OOP\OOP3\bin\Debug\netcoreapp3.1\Static.runtimeconfig.json
+C:\Users\emotion_No.23\source\repos\OOP\OOP3\bin\Debug\netcoreapp3.1\Static.runtimeconfig.dev.json
+C:\Users\emotion_No.23\source\repos\OOP\OOP3\bin\Debug\netcoreapp3.1\Static.dll
+C:\Users\emotion_No.23\source\repos\OOP\OOP3\bin\Debug\netcoreapp3.1\Static.pdb
+C:\Users\emotion_No.23\source\repos\OOP\OOP3\obj\Debug\netcoreapp3.1\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emotion_No.23\source\repos\OOP\OOP3\obj\Debug\netcoreapp3.1\Static.AssemblyInfoInputs.cache
+C:\Users\emotion_No.23\source\repos\OOP\OOP3\obj\Debug\netcoreapp3.1\Static.AssemblyInfo.cs
+C:\Users\emotion_No.23\source\repos\OOP\OOP3\obj\Debug\netcoreapp3.1\Static.csproj.CoreCompileInputs.cache
+C:\Users\emotion_No.23\source\repos\OOP\OOP3\obj\Debug\netcoreapp3.1\Static.dll
+C:\Users\emotion_No.23\source\repos\OOP\OOP3\obj\Debug\netcoreapp3.1\Static.pdb
+C:\Users\emotion_No.23\source\repos\OOP\OOP3\obj\Debug\netcoreapp3.1\Static.genruntimeconfig.cache

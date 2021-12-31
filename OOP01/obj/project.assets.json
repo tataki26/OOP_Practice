@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emotion_No.23\\source\\repos\\OOP\\OOP01\\OOP01.csproj",
-      "projectName": "OOP01",
-      "projectPath": "C:\\Users\\emotion_No.23\\source\\repos\\OOP\\OOP01\\OOP01.csproj",
+      "projectUniqueName": "C:\\Users\\emotion_No.23\\source\\repos\\OOP\\OOP01\\Constructor.csproj",
+      "projectName": "Constructor",
+      "projectPath": "C:\\Users\\emotion_No.23\\source\\repos\\OOP\\OOP01\\Constructor.csproj",
       "packagesPath": "C:\\Users\\emotion_No.23\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\emotion_No.23\\source\\repos\\OOP\\OOP01\\obj\\",
       "projectStyle": "PackageReference",

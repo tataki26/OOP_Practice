@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emotion_No.23\\source\\repos\\OOP\\OOP2\\OOP2.csproj",
-      "projectName": "OOP2",
-      "projectPath": "C:\\Users\\emotion_No.23\\source\\repos\\OOP\\OOP2\\OOP2.csproj",
+      "projectUniqueName": "C:\\Users\\emotion_No.23\\source\\repos\\OOP\\OOP2\\New.csproj",
+      "projectName": "New",
+      "projectPath": "C:\\Users\\emotion_No.23\\source\\repos\\OOP\\OOP2\\New.csproj",
       "packagesPath": "C:\\Users\\emotion_No.23\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\emotion_No.23\\source\\repos\\OOP\\OOP2\\obj\\",
       "projectStyle": "PackageReference",
