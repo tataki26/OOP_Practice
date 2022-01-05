@@ -1,0 +1,13 @@
+C:\Users\emotion_No.23\source\repos\OOP\Virtual\bin\Debug\netcoreapp3.1\Virtual.exe
+C:\Users\emotion_No.23\source\repos\OOP\Virtual\bin\Debug\netcoreapp3.1\Virtual.deps.json
+C:\Users\emotion_No.23\source\repos\OOP\Virtual\bin\Debug\netcoreapp3.1\Virtual.runtimeconfig.json
+C:\Users\emotion_No.23\source\repos\OOP\Virtual\bin\Debug\netcoreapp3.1\Virtual.runtimeconfig.dev.json
+C:\Users\emotion_No.23\source\repos\OOP\Virtual\bin\Debug\netcoreapp3.1\Virtual.dll
+C:\Users\emotion_No.23\source\repos\OOP\Virtual\bin\Debug\netcoreapp3.1\Virtual.pdb
+C:\Users\emotion_No.23\source\repos\OOP\Virtual\obj\Debug\netcoreapp3.1\Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emotion_No.23\source\repos\OOP\Virtual\obj\Debug\netcoreapp3.1\Virtual.AssemblyInfoInputs.cache
+C:\Users\emotion_No.23\source\repos\OOP\Virtual\obj\Debug\netcoreapp3.1\Virtual.AssemblyInfo.cs
+C:\Users\emotion_No.23\source\repos\OOP\Virtual\obj\Debug\netcoreapp3.1\Virtual.csproj.CoreCompileInputs.cache
+C:\Users\emotion_No.23\source\repos\OOP\Virtual\obj\Debug\netcoreapp3.1\Virtual.dll
+C:\Users\emotion_No.23\source\repos\OOP\Virtual\obj\Debug\netcoreapp3.1\Virtual.pdb
+C:\Users\emotion_No.23\source\repos\OOP\Virtual\obj\Debug\netcoreapp3.1\Virtual.genruntimeconfig.cache
