@@ -11,3 +11,4 @@ C:\Users\emotion_No.23\source\repos\OOP\Abstract\obj\Debug\netcoreapp3.1\Abstrac
 C:\Users\emotion_No.23\source\repos\OOP\Abstract\obj\Debug\netcoreapp3.1\Abstract.dll
 C:\Users\emotion_No.23\source\repos\OOP\Abstract\obj\Debug\netcoreapp3.1\Abstract.pdb
 C:\Users\emotion_No.23\source\repos\OOP\Abstract\obj\Debug\netcoreapp3.1\Abstract.genruntimeconfig.cache
+C:\Users\emotion_No.23\source\repos\OOP\Abstract\obj\Debug\netcoreapp3.1\Abstract.csproj.AssemblyReference.cache
