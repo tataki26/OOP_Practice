@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Inheritance02
+namespace Abstraction
 {
-    // 상속
-    // 유사한 객체끼리 부모 클래스와 인터페이스를 정의하여 공통화한 다음, 상속 받아서 객체를 좀 더 다루기 쉽게 하는 특징
-    // 중복으로 인한 긴 코드를 줄일 수 있어 가독성을 높일 수 있다
-
-    // 인터페이스(Subject)를 만들고 공통되는 함수(GetScore)를 추상 클래스에 두기
-    // People 클래스에도 성적을 각각의 멤버 변수가 아닌 List로 관리하여 국어, 영어, 수학 뿐 아니라 과목이 추가 될 때 확장 가능
+    // 추상화
+    // 교육 정책 개편으로 국어는 100에서 120으로, 영어는 100에서 80으로, 수학은 그대로 100으로 과목 점수 배점을 바꿔야 한다
+    // GetScore 함수를 virtual로 설정한 다음 국어와 영어에서 재정의
+    // 단순히 재정의하는 것만으로 점수 배점이 바뀌어 총점, 평균, 석차도 바뀜
+    // 확장성과 수정이 매우 편해진다
+    
 
     // 과목 인터페이스
     interface ISubject
@@ -26,8 +26,8 @@ namespace Inheritance02
         {
             this.score = score;
         }
-        // 점수 취득 함수
-        public int GetScore()
+        // 점수 취득 함수 >> 가상화
+        public virtual int GetScore()
         {
             return this.score;
         }
@@ -38,16 +38,27 @@ namespace Inheritance02
     {
         // 생성자
         public Korean(int score) : base(score) { }
+        // 점수 재정의
+        public override int GetScore()
+        {
+            return (int)((float)base.GetScore() * 1.2f);
+        }
     }
     // 영어 클래스
     class English : AbstractSubject
     {
         public English(int score) : base(score) { }
+        // 점수 재정의
+        public override int GetScore()
+        {
+            return (int)((float)base.GetScore() * 0.8f);
+        }
     }
     // 수학 클래스
     class Math : AbstractSubject
     {
         public Math(int score) : base(score) { }
+
     }
     // 학생 클래스
     class People
@@ -91,7 +102,7 @@ namespace Inheritance02
         {
             // 석차
             int rank = 1;
-            foreach(People p in peoples.OrderByDescending(x => x.GetTotal()))
+            foreach (People p in peoples.OrderByDescending(x => x.GetTotal()))
             {
                 // 같은 클래스면 continue
                 if (p == this)
@@ -129,7 +140,7 @@ namespace Inheritance02
             }
         }
     }
- 
+
     class Program
     {
         static void Main(string[] args)

@@ -33,9 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Base", "Base\Base.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Base02", "Base02\Base02.csproj", "{E445BABF-3720-4F0A-85A8-97004CC1B5C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{0C524025-941F-4F47-B05E-CE2831DEED2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{0C524025-941F-4F47-B05E-CE2831DEED2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance02", "Inheritance02\Inheritance02.csproj", "{88484DF2-52E4-47C8-9F8B-7A0DFFF9E423}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance02", "Inheritance02\Inheritance02.csproj", "{88484DF2-52E4-47C8-9F8B-7A0DFFF9E423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Abstraction\Abstraction.csproj", "{13866351-12D2-4765-B663-09FDFFFFF2C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{88484DF2-52E4-47C8-9F8B-7A0DFFF9E423}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88484DF2-52E4-47C8-9F8B-7A0DFFF9E423}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88484DF2-52E4-47C8-9F8B-7A0DFFF9E423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13866351-12D2-4765-B663-09FDFFFFF2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13866351-12D2-4765-B663-09FDFFFFF2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13866351-12D2-4765-B663-09FDFFFFF2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13866351-12D2-4765-B663-09FDFFFFF2C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
