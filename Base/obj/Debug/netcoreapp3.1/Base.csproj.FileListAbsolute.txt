@@ -1,0 +1,13 @@
+C:\Users\emotion_No.23\source\repos\OOP\Base\bin\Debug\netcoreapp3.1\Base.exe
+C:\Users\emotion_No.23\source\repos\OOP\Base\bin\Debug\netcoreapp3.1\Base.deps.json
+C:\Users\emotion_No.23\source\repos\OOP\Base\bin\Debug\netcoreapp3.1\Base.runtimeconfig.json
+C:\Users\emotion_No.23\source\repos\OOP\Base\bin\Debug\netcoreapp3.1\Base.runtimeconfig.dev.json
+C:\Users\emotion_No.23\source\repos\OOP\Base\bin\Debug\netcoreapp3.1\Base.dll
+C:\Users\emotion_No.23\source\repos\OOP\Base\bin\Debug\netcoreapp3.1\Base.pdb
+C:\Users\emotion_No.23\source\repos\OOP\Base\obj\Debug\netcoreapp3.1\Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emotion_No.23\source\repos\OOP\Base\obj\Debug\netcoreapp3.1\Base.AssemblyInfoInputs.cache
+C:\Users\emotion_No.23\source\repos\OOP\Base\obj\Debug\netcoreapp3.1\Base.AssemblyInfo.cs
+C:\Users\emotion_No.23\source\repos\OOP\Base\obj\Debug\netcoreapp3.1\Base.csproj.CoreCompileInputs.cache
+C:\Users\emotion_No.23\source\repos\OOP\Base\obj\Debug\netcoreapp3.1\Base.dll
+C:\Users\emotion_No.23\source\repos\OOP\Base\obj\Debug\netcoreapp3.1\Base.pdb
+C:\Users\emotion_No.23\source\repos\OOP\Base\obj\Debug\netcoreapp3.1\Base.genruntimeconfig.cache
