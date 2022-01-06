@@ -27,11 +27,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Inte
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface02", "Interface02\Interface02.csproj", "{B69F061D-731B-4668-BE93-1204F9E74158}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "This", "This\This.csproj", "{16EC5BF1-F071-4943-A857-35EAF9EB9CC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "This", "This\This.csproj", "{16EC5BF1-F071-4943-A857-35EAF9EB9CC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base", "Base\Base.csproj", "{7EFA1A44-FBE3-47F6-AD95-8A42EDDA52FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Base", "Base\Base.csproj", "{7EFA1A44-FBE3-47F6-AD95-8A42EDDA52FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base02", "Base02\Base02.csproj", "{E445BABF-3720-4F0A-85A8-97004CC1B5C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Base02", "Base02\Base02.csproj", "{E445BABF-3720-4F0A-85A8-97004CC1B5C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{0C524025-941F-4F47-B05E-CE2831DEED2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{E445BABF-3720-4F0A-85A8-97004CC1B5C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E445BABF-3720-4F0A-85A8-97004CC1B5C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E445BABF-3720-4F0A-85A8-97004CC1B5C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C524025-941F-4F47-B05E-CE2831DEED2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C524025-941F-4F47-B05E-CE2831DEED2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C524025-941F-4F47-B05E-CE2831DEED2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C524025-941F-4F47-B05E-CE2831DEED2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
