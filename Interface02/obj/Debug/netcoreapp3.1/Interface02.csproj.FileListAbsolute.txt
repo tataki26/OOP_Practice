@@ -1,0 +1,13 @@
+C:\Users\emotion_No.23\source\repos\OOP\Interface02\bin\Debug\netcoreapp3.1\Interface02.exe
+C:\Users\emotion_No.23\source\repos\OOP\Interface02\bin\Debug\netcoreapp3.1\Interface02.deps.json
+C:\Users\emotion_No.23\source\repos\OOP\Interface02\bin\Debug\netcoreapp3.1\Interface02.runtimeconfig.json
+C:\Users\emotion_No.23\source\repos\OOP\Interface02\bin\Debug\netcoreapp3.1\Interface02.runtimeconfig.dev.json
+C:\Users\emotion_No.23\source\repos\OOP\Interface02\bin\Debug\netcoreapp3.1\Interface02.dll
+C:\Users\emotion_No.23\source\repos\OOP\Interface02\bin\Debug\netcoreapp3.1\Interface02.pdb
+C:\Users\emotion_No.23\source\repos\OOP\Interface02\obj\Debug\netcoreapp3.1\Interface02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emotion_No.23\source\repos\OOP\Interface02\obj\Debug\netcoreapp3.1\Interface02.AssemblyInfoInputs.cache
+C:\Users\emotion_No.23\source\repos\OOP\Interface02\obj\Debug\netcoreapp3.1\Interface02.AssemblyInfo.cs
+C:\Users\emotion_No.23\source\repos\OOP\Interface02\obj\Debug\netcoreapp3.1\Interface02.csproj.CoreCompileInputs.cache
+C:\Users\emotion_No.23\source\repos\OOP\Interface02\obj\Debug\netcoreapp3.1\Interface02.dll
+C:\Users\emotion_No.23\source\repos\OOP\Interface02\obj\Debug\netcoreapp3.1\Interface02.pdb
+C:\Users\emotion_No.23\source\repos\OOP\Interface02\obj\Debug\netcoreapp3.1\Interface02.genruntimeconfig.cache
