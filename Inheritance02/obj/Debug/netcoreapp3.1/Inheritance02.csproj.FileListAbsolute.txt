@@ -1,0 +1,14 @@
+C:\Users\emotion_No.23\source\repos\OOP\Inheritance02\bin\Debug\netcoreapp3.1\Inheritance02.exe
+C:\Users\emotion_No.23\source\repos\OOP\Inheritance02\bin\Debug\netcoreapp3.1\Inheritance02.deps.json
+C:\Users\emotion_No.23\source\repos\OOP\Inheritance02\bin\Debug\netcoreapp3.1\Inheritance02.runtimeconfig.json
+C:\Users\emotion_No.23\source\repos\OOP\Inheritance02\bin\Debug\netcoreapp3.1\Inheritance02.runtimeconfig.dev.json
+C:\Users\emotion_No.23\source\repos\OOP\Inheritance02\bin\Debug\netcoreapp3.1\Inheritance02.dll
+C:\Users\emotion_No.23\source\repos\OOP\Inheritance02\bin\Debug\netcoreapp3.1\Inheritance02.pdb
+C:\Users\emotion_No.23\source\repos\OOP\Inheritance02\obj\Debug\netcoreapp3.1\Inheritance02.csproj.AssemblyReference.cache
+C:\Users\emotion_No.23\source\repos\OOP\Inheritance02\obj\Debug\netcoreapp3.1\Inheritance02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emotion_No.23\source\repos\OOP\Inheritance02\obj\Debug\netcoreapp3.1\Inheritance02.AssemblyInfoInputs.cache
+C:\Users\emotion_No.23\source\repos\OOP\Inheritance02\obj\Debug\netcoreapp3.1\Inheritance02.AssemblyInfo.cs
+C:\Users\emotion_No.23\source\repos\OOP\Inheritance02\obj\Debug\netcoreapp3.1\Inheritance02.csproj.CoreCompileInputs.cache
+C:\Users\emotion_No.23\source\repos\OOP\Inheritance02\obj\Debug\netcoreapp3.1\Inheritance02.dll
+C:\Users\emotion_No.23\source\repos\OOP\Inheritance02\obj\Debug\netcoreapp3.1\Inheritance02.pdb
+C:\Users\emotion_No.23\source\repos\OOP\Inheritance02\obj\Debug\netcoreapp3.1\Inheritance02.genruntimeconfig.cache
