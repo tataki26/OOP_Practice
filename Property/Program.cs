@@ -68,6 +68,7 @@ namespace Property
             set
             {
                 // 설정 값은 value의 키워드로 들어온다
+                // value: set 접근자가 할당하는 값(전달 받은 인자 값)을 정의하는데 사용
                 this.data = value;
             }
         }
