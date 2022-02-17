@@ -14,6 +14,7 @@ namespace MultipleInheritance
         // 추상 메서드
         public abstract string GetBTypeName();
     }
+
     // 위 두 개의 추상 클래스를 상속 받는다
     // 다중 상속 에러: Print 함수가 Example이 아닌 추상 클래스에 있으면 Print 함수 호출 시, 출처가 모호해지는 문제
     // C#에서는 다중 상속 금지
@@ -37,7 +38,7 @@ namespace MultipleInheritance
     }
     class Program
     {
-        static void Main(string[] args)
+        static void eMain(string[] args)
         {
             // 인스턴스 생성
             Example ex = new Example();
@@ -47,4 +48,5 @@ namespace MultipleInheritance
             Console.ReadLine();
         }
     }
+
 }

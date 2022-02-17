@@ -1,0 +1,7 @@
+C:\Users\emotion_No.23\source\repos\OOP\ThreadingPool\obj\Debug\ThreadingPool.csproj.AssemblyReference.cache
+C:\Users\emotion_No.23\source\repos\OOP\ThreadingPool\obj\Debug\ThreadingPool.csproj.CoreCompileInputs.cache
+C:\Users\emotion_No.23\source\repos\OOP\ThreadingPool\bin\Debug\ThreadingPool.exe.config
+C:\Users\emotion_No.23\source\repos\OOP\ThreadingPool\bin\Debug\ThreadingPool.exe
+C:\Users\emotion_No.23\source\repos\OOP\ThreadingPool\bin\Debug\ThreadingPool.pdb
+C:\Users\emotion_No.23\source\repos\OOP\ThreadingPool\obj\Debug\ThreadingPool.exe
+C:\Users\emotion_No.23\source\repos\OOP\ThreadingPool\obj\Debug\ThreadingPool.pdb

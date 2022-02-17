@@ -1,0 +1,14 @@
+C:\Users\emotion_No.23\source\repos\OOP\ThreadsPool\bin\Debug\netcoreapp3.1\ThreadsPool.exe
+C:\Users\emotion_No.23\source\repos\OOP\ThreadsPool\bin\Debug\netcoreapp3.1\ThreadsPool.deps.json
+C:\Users\emotion_No.23\source\repos\OOP\ThreadsPool\bin\Debug\netcoreapp3.1\ThreadsPool.runtimeconfig.json
+C:\Users\emotion_No.23\source\repos\OOP\ThreadsPool\bin\Debug\netcoreapp3.1\ThreadsPool.runtimeconfig.dev.json
+C:\Users\emotion_No.23\source\repos\OOP\ThreadsPool\bin\Debug\netcoreapp3.1\ThreadsPool.dll
+C:\Users\emotion_No.23\source\repos\OOP\ThreadsPool\bin\Debug\netcoreapp3.1\ThreadsPool.pdb
+C:\Users\emotion_No.23\source\repos\OOP\ThreadsPool\obj\Debug\netcoreapp3.1\ThreadsPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emotion_No.23\source\repos\OOP\ThreadsPool\obj\Debug\netcoreapp3.1\ThreadsPool.AssemblyInfoInputs.cache
+C:\Users\emotion_No.23\source\repos\OOP\ThreadsPool\obj\Debug\netcoreapp3.1\ThreadsPool.AssemblyInfo.cs
+C:\Users\emotion_No.23\source\repos\OOP\ThreadsPool\obj\Debug\netcoreapp3.1\ThreadsPool.csproj.CoreCompileInputs.cache
+C:\Users\emotion_No.23\source\repos\OOP\ThreadsPool\obj\Debug\netcoreapp3.1\ThreadsPool.dll
+C:\Users\emotion_No.23\source\repos\OOP\ThreadsPool\obj\Debug\netcoreapp3.1\ThreadsPool.pdb
+C:\Users\emotion_No.23\source\repos\OOP\ThreadsPool\obj\Debug\netcoreapp3.1\ThreadsPool.genruntimeconfig.cache
+C:\Users\emotion_No.23\source\repos\OOP\ThreadsPool\obj\Debug\netcoreapp3.1\ThreadsPool.csproj.AssemblyReference.cache

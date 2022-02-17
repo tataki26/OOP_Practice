@@ -47,6 +47,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lambda", "Lambda\Lambda.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threads", "Threads\Threads.csproj", "{68A2BE3B-93B4-4B2D-A9B6-3EB192DDD13B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingPool", "ThreadingPool\ThreadingPool.csproj", "{73C55950-7886-4536-9AC1-91929D6377FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{68A2BE3B-93B4-4B2D-A9B6-3EB192DDD13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68A2BE3B-93B4-4B2D-A9B6-3EB192DDD13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68A2BE3B-93B4-4B2D-A9B6-3EB192DDD13B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73C55950-7886-4536-9AC1-91929D6377FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C55950-7886-4536-9AC1-91929D6377FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C55950-7886-4536-9AC1-91929D6377FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C55950-7886-4536-9AC1-91929D6377FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

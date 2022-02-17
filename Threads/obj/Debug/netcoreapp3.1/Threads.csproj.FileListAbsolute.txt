@@ -11,3 +11,4 @@ C:\Users\emotion_No.23\source\repos\OOP\Threads\obj\Debug\netcoreapp3.1\Threads.
 C:\Users\emotion_No.23\source\repos\OOP\Threads\obj\Debug\netcoreapp3.1\Threads.dll
 C:\Users\emotion_No.23\source\repos\OOP\Threads\obj\Debug\netcoreapp3.1\Threads.pdb
 C:\Users\emotion_No.23\source\repos\OOP\Threads\obj\Debug\netcoreapp3.1\Threads.genruntimeconfig.cache
+C:\Users\emotion_No.23\source\repos\OOP\Threads\obj\Debug\netcoreapp3.1\Threads.csproj.AssemblyReference.cache
