@@ -41,9 +41,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstraction", "Abstraction\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Property", "Property\Property.csproj", "{B704723C-AA90-4C63-910C-FB1102E2DB0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{CB1EDC17-7FE8-4536-BFE7-16A41C3AD77F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate", "Delegate\Delegate.csproj", "{CB1EDC17-7FE8-4536-BFE7-16A41C3AD77F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda", "Lambda\Lambda.csproj", "{CFB3777A-EFB1-4566-A3F5-CD50F94CBD6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lambda", "Lambda\Lambda.csproj", "{CFB3777A-EFB1-4566-A3F5-CD50F94CBD6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threads", "Threads\Threads.csproj", "{68A2BE3B-93B4-4B2D-A9B6-3EB192DDD13B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{CFB3777A-EFB1-4566-A3F5-CD50F94CBD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFB3777A-EFB1-4566-A3F5-CD50F94CBD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFB3777A-EFB1-4566-A3F5-CD50F94CBD6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A2BE3B-93B4-4B2D-A9B6-3EB192DDD13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A2BE3B-93B4-4B2D-A9B6-3EB192DDD13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A2BE3B-93B4-4B2D-A9B6-3EB192DDD13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A2BE3B-93B4-4B2D-A9B6-3EB192DDD13B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
