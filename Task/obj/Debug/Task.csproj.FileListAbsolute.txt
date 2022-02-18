@@ -4,3 +4,4 @@ C:\Users\emotion_No.23\source\repos\OOP\Task\bin\Debug\Task.pdb
 C:\Users\emotion_No.23\source\repos\OOP\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
 C:\Users\emotion_No.23\source\repos\OOP\Task\obj\Debug\Task.exe
 C:\Users\emotion_No.23\source\repos\OOP\Task\obj\Debug\Task.pdb
+C:\Users\emotion_No.23\source\repos\OOP\Task\obj\Debug\Task.csproj.AssemblyReference.cache
